@@ -1,5 +1,7 @@
-Arduino HID Project 2.6.1
-=========================
+Arduino HID Project 2.6.1 With Nintendo Switch Gamepad Support
+==============================================================
+
+This has been modified using code+instructions from [NSGadget_HID](https://github.com/gdsports/NSGadget_HID)
 
 ![Header Picture](header.jpg)
 
